@@ -13,4 +13,5 @@ Setup:
 
 ex: localhost:8080/java-filter
 
+Note: make sure other servlets or web applications on the server are tying up your default URL path. 
 
