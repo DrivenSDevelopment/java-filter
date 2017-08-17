@@ -9,7 +9,7 @@ Setup:
 
 %CATALINA_ROOT%/webapps/java-filter
 
-2. Run Tomcat with java-filter as the context path of your URL
+2. Run Tomcat with 'java-filter' as the context path of your URL
 
 ex: localhost:8080/java-filter
 
